@@ -1,2 +1,4 @@
 user=pradyumna
 pass=Nakoor@123
+nagraj user=Nakoor
+passfor nagraj=shiriya
