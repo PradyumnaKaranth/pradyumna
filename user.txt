@@ -1,0 +1,2 @@
+user=pradyumna
+pass=Nakoor@123
